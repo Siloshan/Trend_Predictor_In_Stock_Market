@@ -25,6 +25,6 @@ The algorithm learns optimal actions based on feedback from the following econom
 
 To use the Trading Bot with Q-Learning (Trend Predictor), follow the steps below:
 
-Please log in to the following link:
-Upload the data through the from or CSV while changing the parameters to understand the accuracies
-Please write to us to get the corresponding Q-table for your trained data. (Due to this research is ongoing, you are not allowed to do any of your own development without our permission)
+- Please log in to the following link:
+- Upload the data through the from or CSV while changing the parameters to understand the accuracies
+- Please write to us to get the corresponding Q-table for your trained data. (***Due to this research is ongoing, you are not allowed to do any of your own development without our permission)
